@@ -1,16 +1,16 @@
-## Hi there 👋
+# Steven Vallis
 
-<!--
-**StevenVallis/StevenVallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Content & AI Strategist building scalable systems, AI-assisted workflows, and production-grade experiments.
 
-Here are some ideas to get you started:
+## Current Focus
+- AI-powered content operations
+- Workflow automation
+- Cloud-deployed AI tools
+- Structured content systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Live Projects
+- Cloud Run Gemini Proxy
+- AI Portfolio Assistant
+
+## Connect
+LinkedIn: [(your link)](https://www.linkedin.com/in/steven-vallis/)
