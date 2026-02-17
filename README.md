@@ -13,4 +13,4 @@ Content & AI Strategist building scalable systems, AI-assisted workflows, and pr
 - AI Portfolio Assistant
 
 ## Connect
-LinkedIn: [(your link)](https://www.linkedin.com/in/steven-vallis/)
+LinkedIn: [(Steven Vallis)](https://www.linkedin.com/in/steven-vallis/)
